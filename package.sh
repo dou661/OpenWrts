@@ -16,5 +16,5 @@ git clone --depth 1 -b master  https://github.com/UnblockNeteaseMusic/luci-app-u
 # OpenClash
 git clone --depth 1 https://github.com/vernesong/OpenClash.git package/luci-app-openclash
 
-git clone --depth 1 https://github.com/nodogsplash/nodogsplash.git
-git clone --depth 1 https://github.com/openNDS/openNDS.git
+git clone --depth 1 https://github.com/nodogsplash/nodogsplash.git  package/nodogsplash
+git clone --depth 1 https://github.com/openNDS/openNDS.git  package/openNDS
